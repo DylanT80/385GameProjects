@@ -310,7 +310,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f355564955596747ba33056715faf2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  planeCount: 10
+  planeCount: 3
 --- !u!4 &261593953
 Transform:
   m_ObjectHideFlags: 0

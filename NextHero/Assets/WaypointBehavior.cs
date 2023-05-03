@@ -23,7 +23,7 @@ public class WaypointBehavior : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         // Move waypoint when alpha is 0 and reset alpha value, not deleting it
         if (c.a <= 0)
